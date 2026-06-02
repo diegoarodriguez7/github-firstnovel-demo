@@ -1,18 +1,21 @@
 Jay Gatsby: A mysterious, fabulously wealthy millionaire driven by an obsessive,
  romantic obsession to win back his first love.
+
  Nick Carraway: The narrator 
  and Gatsby's neighbor. He observes the reckless behavior of the rich and 
  acts as the audience's window
  into the story.
+
  Daisy Buchanan: Nick's cousin, Gatsby’s former lover, and the glamorous but 
  somewhat fragile wife of Tom Buchanan.
+
  Tom Buchanan: Daisy's arrogant, affluent, 
  and unfaithful husband who comes from "old money".
- Jordan Baker: Daisy’s cynical,
-  athletic friend and a professional golfer who becomes romantically involved 
-  with 
-  Nick.
-  Myrtle Wilson: Tom’s vivacious secret mistress who lives in the 
-  industrial "valley of ashes".George Wilson: Myrtle’s unsuspecting, 
-  downtrodden husband who owns a local auto repair garage.
+
+ Jordan Baker: Daisy’s cynical athletic friend and a professional golfer who becomes romantically involved 
+ with Nick.
+
+Myrtle Wilson: Tom’s vivacious secret mistress who lives in the 
+industrial "valley of ashes".George Wilson: Myrtle’s unsuspecting, 
+downtrodden husband who owns a local auto repair garage.
 
